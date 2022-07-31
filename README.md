@@ -31,5 +31,5 @@ Bootstrap categorizes screen sizes into 5 categories or as breakpoints: extra sm
 
 * so you can use col-sm-4, col-lg-6, to change the size at different breakpoints
 * however breakpoints mean "on this screen size and greater"
-
+* a row will make a child stretch to fill its parent column
 # Bootstrap Utilities and Components
